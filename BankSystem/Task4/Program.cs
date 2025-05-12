@@ -209,8 +209,7 @@ namespace Task4
                 AccountUtil.Withdraw(checAccounts, 2000);
                 AccountUtil.Withdraw(checAccounts, 2000);
 
-            // الحتة دي مش شغالة والكود بيرن بس للنتايج مش صح
-           //انا عارفة وفاهمة ان دا بولمورفيزم و في الاخر هو عبارة عن اوبجيكت من نوع اكونت
+         
                 // Trust
                 //var trustAccounts = new List<Account>();
                 //trustAccounts.Add(new TrustAccount());
@@ -231,10 +230,6 @@ namespace Task4
             Account account2 = new Account() { Name = "Aly", Balance = 1000 };
 
 
-            /// اعتراف مني اني مقصرة جدا 
-            /// فانا فعلا معملتش اللي عليا في التاسك دي .. ولظروف حصلت عندي مذاكرتش فعليا  بقالي محاضرتين
-            /// فياريت متبلغوش البشمهندس ,, لانه حقيقي بيعمل مجهود جبار  والتقصير عندي  وشكراا
-            /// 
 
 
         }
